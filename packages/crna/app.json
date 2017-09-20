@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "20.0.0",
+	"slug": "TestCRNA",
+    "ignoreNodeModulesValidation": true,
+	"rnCliPath": "../../node_modules/react-native/local-cli/cli.js",
+	"nodeModulesPath": "../../",
+    // "packagerOpts": {
+    //     "projectRoots": ""
+    // }
+  }
+}
